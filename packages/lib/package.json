@@ -1,5 +1,5 @@
 {
-  "name": "@cshah/vite-plugin-federation",
+  "name": "@cshah18/vite-plugin-federation",
   "version": "1.4.1",
   "description": "A Vite plugin which support Module Federation.",
   "main": "./dist/index.js",

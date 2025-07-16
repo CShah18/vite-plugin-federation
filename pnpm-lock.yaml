@@ -73,7 +73,7 @@ importers:
 
   packages/examples/basic-host-remote:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       http-server:
@@ -97,7 +97,7 @@ importers:
 
   packages/examples/react-in-vue:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:
@@ -194,7 +194,7 @@ importers:
 
   packages/examples/simple-react-esm:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       http-server:
@@ -280,7 +280,7 @@ importers:
 
   packages/examples/simple-react-systemjs:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       http-server:
@@ -366,7 +366,7 @@ importers:
 
   packages/examples/simple-react-webpack:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       http-server:
@@ -449,7 +449,7 @@ importers:
 
   packages/examples/vue2-demo:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:
@@ -484,7 +484,7 @@ importers:
 
   packages/examples/vue3-advanced-demo:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:
@@ -580,7 +580,7 @@ importers:
 
   packages/examples/vue3-demo-esm:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:
@@ -589,7 +589,7 @@ importers:
 
   packages/examples/vue3-demo-esm-expose-store:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:
@@ -633,7 +633,7 @@ importers:
 
   packages/examples/vue3-demo-esm-shared-store:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:
@@ -788,7 +788,7 @@ importers:
 
   packages/examples/vue3-demo-systemjs:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:
@@ -861,7 +861,7 @@ importers:
 
   packages/examples/vue3-demo-webpack-esm-esm:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:
@@ -917,7 +917,7 @@ importers:
         specifier: ^3.2.45
         version: 3.2.45
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../../lib
       '@vitejs/plugin-vue':
@@ -929,7 +929,7 @@ importers:
 
   packages/examples/vue3-demo-webpack-esm-var:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:
@@ -988,7 +988,7 @@ importers:
         specifier: ^3.2.45
         version: 3.2.45
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../../lib
       '@vitejs/plugin-vue':
@@ -1000,7 +1000,7 @@ importers:
 
   packages/examples/vue3-demo-webpack-systemjs:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:
@@ -1059,7 +1059,7 @@ importers:
         specifier: ^3.2.45
         version: 3.2.45
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../../lib
       '@vitejs/plugin-vue':
@@ -1071,7 +1071,7 @@ importers:
 
   packages/examples/webpack-host:
     devDependencies:
-      '@cshah/vite-plugin-federation':
+      '@cshah18/vite-plugin-federation':
         specifier: workspace:*
         version: link:../../lib
       kill-port:

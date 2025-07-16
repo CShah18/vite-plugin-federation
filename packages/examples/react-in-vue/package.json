@@ -12,7 +12,7 @@
     "stop": "kill-port --port 5000,5001"
   },
   "devDependencies": {
-    "@cshah/vite-plugin-federation": "workspace:*",
+    "@cshah18/vite-plugin-federation": "workspace:*",
     "kill-port": "^2.0.1"
   }
 }
