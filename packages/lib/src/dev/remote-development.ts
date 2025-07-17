@@ -258,6 +258,7 @@ export {__federation_method_ensure, __federation_method_getRemote , __federation
         return
       }
 
+      code += '\n';
       code += `(${importShared})();\n`
 
       let ast: AcornNode | null = null
