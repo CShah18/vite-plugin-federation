@@ -351,7 +351,7 @@ export function prodRemotePlugin(
         let modify = false
         let manualRequired: any = null // set static import if exists
 
-        walk(ast, {
+        walk(ast as any, {
           enter(node: any) {
             // handle share, eg. replace import {a} from b  -> const a = importShared('b')
             if (node.type === 'ImportDeclaration') {

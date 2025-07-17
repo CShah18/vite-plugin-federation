@@ -70,7 +70,7 @@ export default {
 
 ```js
 // rollup.config.js
-import federation from '@originjs/vite-plugin-federation'
+import federation from '@cshah18/vite-plugin-federation'
 export default {
     input: 'src/index.js',
     plugins: [
@@ -111,7 +111,7 @@ export default {
 
 ```js
 // rollup.config.js
-import federation from '@originjs/vite-plugin-federation'
+import federation from '@cshah18/vite-plugin-federation'
 export default {
     input: 'src/index.js',
     plugins: [

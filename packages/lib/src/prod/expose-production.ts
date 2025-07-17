@@ -291,7 +291,7 @@ export function prodExposePlugin(
         }
         const magicString = new MagicString(remoteEntryChunk.code)
         // let cssFunctionName: string = DYNAMIC_LOADING_CSS
-        walk(ast, {
+        walk(ast as any, {
           enter(node: any) {
             if (
               node &&

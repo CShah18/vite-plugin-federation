@@ -58,7 +58,7 @@ export default {
 
 ```js
 // rollup.config.js
-import federation from '@originjs/vite-plugin-federation'
+import federation from '@cshah18/vite-plugin-federation'
 export default {
     input: 'src/index.js',
     plugins: [
@@ -96,7 +96,7 @@ export default {
 *  使用Rollup构建的项目，修改`rollup.config.js`
 ```js
 // rollup.config.js
-import federation from '@originjs/vite-plugin-federation'
+import federation from '@cshah18/vite-plugin-federation'
 export default {
     input: 'src/index.js',
     plugins: [

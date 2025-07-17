@@ -275,7 +275,7 @@ export {__federation_method_ensure, __federation_method_getRemote , __federation
 
       let requiresRuntime = false
       let manualRequired: any = null // set static import if exists
-      walk(ast, {
+      walk(ast as any, {
         enter(node: any) {
           if (
             node.type === 'MemberExpression' &&
